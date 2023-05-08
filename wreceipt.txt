@@ -1,0 +1,7 @@
+maaza mango juice 2 liter   $4.95
+five star chocolate bar     $1.95
+
+Subtotal                    $6.90
+Tax (NJ sales 7%)           $0.48
+---------------------------------
+Total                       $7.38
