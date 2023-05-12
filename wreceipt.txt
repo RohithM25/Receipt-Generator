@@ -1,7 +1,9 @@
-maaza mango juice 2 liter   $4.95
-five star chocolate bar     $1.95
+banana bunch         $4.99
+banana bunch         $4.99
+organic kiwis 6 pc   $3.95
+organic milk         $5.99
 
-Subtotal                    $6.90
-Tax (NJ sales 7%)           $0.48
----------------------------------
-Total                       $7.38
+Subtotal             $19.92
+Tax (NJ sales 7%)    $1.39
+---------------------------
+Total                $21.31
